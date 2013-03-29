@@ -3,11 +3,11 @@ require 'test_helper'
 class ProductsControllerTest < ActionController::TestCase
   setup do
     @product = products(:one)
-    @product = {
-      :title  => 'Lorem Ipsum',
-      :description => 'Ya boyyy',
-      :image_url  => 'ban.jpg',
-      :price  => 19.95
+    @update = {
+      :title       => 'Lorem Ipsum',
+      :description => 'Wibbles are fun!',
+      :image_url   => 'lorem.jpg',
+      :price       => 19.95
     }
   end
 
@@ -30,13 +30,15 @@ class ProductsControllerTest < ActionController::TestCase
     assert_redirected_to product_path(assigns(:product))
   end
 
+  # ...
+
   test "should show product" do
-    get :show, id: @product
+    get :show, :id => @product.to_param
     assert_response :success
   end
 
   test "should get edit" do
-    get :edit, id: @product
+    get :edit, :id => @product.to_param
     assert_response :success
   end
 
@@ -45,9 +47,11 @@ class ProductsControllerTest < ActionController::TestCase
     assert_redirected_to product_path(assigns(:product))
   end
 
+  # ...
+
   test "should destroy product" do
     assert_difference('Product.count', -1) do
-      delete :destroy, id: @product
+      delete :destroy, :id => @product.to_param
     end
 
     assert_redirected_to products_path
