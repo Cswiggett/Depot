@@ -27,8 +27,8 @@ test:
   reconnect: false
   database: depot_test
   pool: 5
-  username: root
-  password: hillary
+  username: test
+  password: testy
   socket: /tmp/mysql.sock
 
 production:
@@ -37,6 +37,6 @@ production:
   reconnect: false
   database: depot_production
   pool: 5
-  username: root
+  username: prod
   password: hillary
   socket: /tmp/mysql.sock
