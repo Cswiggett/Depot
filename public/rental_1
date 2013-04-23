@@ -1,0 +1,72 @@
+[
+  {
+    "type": "rentals",
+    "address": "97-119 Sullivan Street",
+    "unit": null,
+    "url": "97-119 Sullivan Street",
+    "price": "(NO FEE)$3,074"
+  },
+  {
+    "type": "rentals",
+    "address": "105 Sullivan",
+    "unit": null,
+    "url": "105 Sullivan",
+    "price": "$2,500"
+  },
+  {
+    "type": "rentals",
+    "address": "25 Mercer Street",
+    "unit": null,
+    "url": "25 Mercer Street",
+    "price": "$11,000"
+  },
+  {
+    "type": "rentals",
+    "address": "25 Mercer Street",
+    "unit": null,
+    "url": "25 Mercer Street",
+    "price": "$7,000"
+  },
+  {
+    "type": "rentals",
+    "address": "25 West Houston",
+    "unit": null,
+    "url": "25 West Houston",
+    "price": "$10,500"
+  },
+  {
+    "type": "rentals",
+    "address": "25 West Houston",
+    "unit": null,
+    "url": "25 West Houston",
+    "price": "$10,500"
+  },
+  {
+    "type": "rentals",
+    "address": "103 Sullivan Street",
+    "unit": null,
+    "url": "103 Sullivan Street",
+    "price": "$2,550"
+  },
+  {
+    "type": "rentals",
+    "address": "93 Mercer Street",
+    "unit": null,
+    "url": "93 Mercer Street",
+    "price": "$7,000"
+  },
+  {
+    "type": "rentals",
+    "address": "156 Sullivan Street",
+    "unit": null,
+    "url": "156 Sullivan Street",
+    "price": "(NO FEE)$4,295"
+  },
+  {
+    "type": "rentals",
+    "address": "192 Sixth Avenue",
+    "unit": null,
+    "url": "192 Sixth Avenue",
+    "price": "$2,550"
+  }
+]

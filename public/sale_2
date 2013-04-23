@@ -1,0 +1,72 @@
+[
+  {
+    "type": "sales",
+    "address": "210 Lafayette #9A",
+    "unit": "#9A",
+    "url": "210 Lafayette #9A",
+    "price": "$2,565,000"
+  },
+  {
+    "type": "sales",
+    "address": "246 Spring Street #3111",
+    "unit": "#3111",
+    "url": "246 Spring Street #3111",
+    "price": "$1,188,000"
+  },
+  {
+    "type": "sales",
+    "address": "210 Lafayette Street #PH2B",
+    "unit": "#PH2B",
+    "url": "210 Lafayette Street #PH2B",
+    "price": "$8,800,000"
+  },
+  {
+    "type": "sales",
+    "address": "210 Lafayette Street #PH2A",
+    "unit": "#PH2A",
+    "url": "210 Lafayette Street #PH2A",
+    "price": "$7,000,000"
+  },
+  {
+    "type": "sales",
+    "address": "30 Crosby Street #3B",
+    "unit": "#3B",
+    "url": "30 Crosby Street #3B",
+    "price": "$7,995,000"
+  },
+  {
+    "type": "sales",
+    "address": "197 Prince Street #2/3",
+    "unit": "#2/3",
+    "url": "197 Prince Street #2/3",
+    "price": "$5,100,000"
+  },
+  {
+    "type": "sales",
+    "address": "505 Greenwich Street #10D",
+    "unit": "#10D",
+    "url": "505 Greenwich Street #10D",
+    "price": "$4,550,000"
+  },
+  {
+    "type": "sales",
+    "address": "40 Mercer Street",
+    "unit": null,
+    "url": "40 Mercer Street",
+    "price": "$7,500,000"
+  },
+  {
+    "type": "sales",
+    "address": "203 Spring Street #7",
+    "unit": "#7",
+    "url": "203 Spring Street #7",
+    "price": "$640,000"
+  },
+  {
+    "type": "sales",
+    "address": "497 Greenwich Street #7B",
+    "unit": "#7B",
+    "url": "497 Greenwich Street #7B",
+    "price": "$5,395,000"
+  }
+]

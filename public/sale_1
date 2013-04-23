@@ -1,0 +1,72 @@
+[
+  {
+    "type": "sales",
+    "address": "2 King Street #6A",
+    "unit": "#6A",
+    "url": "2 King Street #6A",
+    "price": "$1,095,000"
+  },
+  {
+    "type": "sales",
+    "address": "132 Greene Street #3F",
+    "unit": "#3F",
+    "url": "132 Greene Street #3F",
+    "price": "$2,050,000"
+  },
+  {
+    "type": "sales",
+    "address": "459 West Broadway #PH6S",
+    "unit": "#PH6S",
+    "url": "459 West Broadway #PH6S",
+    "price": "$17,250,000"
+  },
+  {
+    "type": "sales",
+    "address": "292 Lafayette Street #2E",
+    "unit": "#2E",
+    "url": "292 Lafayette Street #2E",
+    "price": "$2,495,000"
+  },
+  {
+    "type": "sales",
+    "address": "481 Greenwich Street #3B",
+    "unit": "#3B",
+    "url": "481 Greenwich Street #3B",
+    "price": "$4,000,000"
+  },
+  {
+    "type": "sales",
+    "address": "50 King Street #8D",
+    "unit": "#8D",
+    "url": "50 King Street #8D",
+    "price": "$625,000"
+  },
+  {
+    "type": "sales",
+    "address": "284 Lafayette Street #5B",
+    "unit": "#5B",
+    "url": "284 Lafayette Street #5B",
+    "price": "$2,850,000"
+  },
+  {
+    "type": "sales",
+    "address": "37 Greene Street #3",
+    "unit": "#3",
+    "url": "37 Greene Street #3",
+    "price": "$5,000,000"
+  },
+  {
+    "type": "sales",
+    "address": "2 Charlton Street #11A",
+    "unit": "#11A",
+    "url": "2 Charlton Street #11A",
+    "price": "$949,000"
+  },
+  {
+    "type": "sales",
+    "address": "185 West Houston Street #6G",
+    "unit": "#6G",
+    "url": "185 West Houston Street #6G",
+    "price": "$749,000"
+  }
+]

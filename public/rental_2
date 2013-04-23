@@ -1,0 +1,72 @@
+[
+  {
+    "type": "rentals",
+    "address": "196 Sixth Avenue",
+    "unit": null,
+    "url": "196 Sixth Avenue",
+    "price": "$4,300"
+  },
+  {
+    "type": "rentals",
+    "address": "535 Broadway",
+    "unit": null,
+    "url": "535 Broadway",
+    "price": "$10,000"
+  },
+  {
+    "type": "rentals",
+    "address": "145 Sixth Avenue",
+    "unit": null,
+    "url": "145 Sixth Avenue",
+    "price": "$5,500"
+  },
+  {
+    "type": "rentals",
+    "address": "481 Greenwich Street",
+    "unit": null,
+    "url": "481 Greenwich Street",
+    "price": "$15,000"
+  },
+  {
+    "type": "rentals",
+    "address": "109 Mercer Street",
+    "unit": null,
+    "url": "109 Mercer Street",
+    "price": "$18,000"
+  },
+  {
+    "type": "rentals",
+    "address": "146 Sullivan Street",
+    "unit": null,
+    "url": "146 Sullivan Street",
+    "price": "$2,395"
+  },
+  {
+    "type": "rentals",
+    "address": "145 6th Avenue",
+    "unit": null,
+    "url": "145 6th Avenue",
+    "price": "$23,000"
+  },
+  {
+    "type": "rentals",
+    "address": "30 Crosby Street",
+    "unit": null,
+    "url": "30 Crosby Street",
+    "price": "$19,000"
+  },
+  {
+    "type": "rentals",
+    "address": "25 West Houston",
+    "unit": null,
+    "url": "25 West Houston",
+    "price": "$11,500"
+  },
+  {
+    "type": "rentals",
+    "address": "142 Sullivan Street",
+    "unit": null,
+    "url": "142 Sullivan Street",
+    "price": "↓$2,695"
+  }
+]
