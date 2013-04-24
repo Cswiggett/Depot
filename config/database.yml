@@ -15,7 +15,7 @@ development:
   database: depot_development
   pool: 5
   username: root
-  password: hillary
+  password: nope
   socket: /tmp/mysql.sock
 
 # Warning: The database defined as "test" will be erased and
@@ -38,5 +38,5 @@ production:
   database: depot_production
   pool: 5
   username: prod
-  password: hillary
+  password: nay
   socket: /tmp/mysql.sock

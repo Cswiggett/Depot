@@ -3,7 +3,7 @@ mysql:
  port: 3306
  socket: /tmp/mysql.sock
  username: root
- password: hillary
+ password: fuck
  database: depot_development
 
 destination:
@@ -12,7 +12,7 @@ destination:
   hostname: localhost
   port: 5432
   username: root    
-  password: hillary
+  password: yocouch
   database: depot_test
 
 # if tables is given, only the listed tables will be converted.  leave empty to convert all tables.
